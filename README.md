@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 </p>
 <p>🌱 I’m currently learning...
   <ul>
-    
     <li><b>Data Structures & Algorithms</b></li>
     <li><b>Web Development</b></li>
     <li><b>App Development</b></li>
