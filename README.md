@@ -37,7 +37,10 @@ Here are some ideas to get you started:
 </p>
 
 <p>  
-  <img align=left src="https://github-readme-stats.vercel.app/api?username=vaish-8468&show_icons=true&theme=radical">
-    <img align=right src="https://github-readme-streak-stats.herokuapp.com/?user=vaish-8468&theme=radical">
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=vaish-8468&show_icons=true&theme=radical">
+  <br>
+  <hr>
+  <br>
+    <img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=vaish-8468&theme=radical">
 </p>
 
