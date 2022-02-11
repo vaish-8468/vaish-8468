@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **vaish-8468/vaish-8468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">Hello there! My name is Vartika Vaish. 👋🤓</h2>
+<h2 align="center">Hello there!👋 My name is Vartika Vaish. 👋🤓</h2>
 <p align="center">I'm currently a student pursuing my Bachelor of Technology in Electrical Engineering from IIT Jammu, Jammu :student:. I'm passionate about areas of machine learning like deep learning and reinforcement learning:woman_technologist:. You can also find me interested in robotics :robot: and how we can use deep learning to automate these robots.I also design websites and apps💻. I've started exploring the field of electronics as well ✨ and hope to contribute to that field as well. 
 </p>
 <p>🌱 I’m currently learning...
