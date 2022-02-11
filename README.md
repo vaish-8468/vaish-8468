@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <img align=center src="https://github-readme-stats.vercel.app/api?username=vaish-8468&show_icons=true&theme=radical">
   <br>
   <hr>
-  <br>
+  
   </p>
   <p align=center>
    <img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=vaish-8468&theme=radical">
