@@ -24,6 +24,9 @@ Here are some ideas to get you started:
     <li><b>App Development</b></li>
     </ul>
     </p>
+    
+    <p>👯 I’m looking to collaborate on <b>Web Development Projects</b>
+    </p>
 
 <p align="center">When I'm not developing and coding, you can find me watching Netflix, Sports or listening to music. I love to spend my free hours by making acrylic paintings🖌️🎨. Memes are something that are appreciated very much 😂. </p>
 
