@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 <p>🌱 I’m currently learning...
   <ul>
     <li><b>Data Structures & Algorithms</b></li>
-    <li><b>Web Development</b></li>
-
-    </ul>
+    <li><b>Web Development</b></li></ul>
     </p>
     
 <p>👯 I’m looking to collaborate on <b>Web Development Projects</b>
