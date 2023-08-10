@@ -38,12 +38,18 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+## 📈 My GitHub Stats and Activity
+
+### 💻 Profile Stats
 <p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=vaish-8468&show_icons=true&theme=radical">
-  <br>
-  <hr>
-  
+ <img alt="Vartika's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=vaish-8468&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Vartika's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaish-8468&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   </p>
+  
+<hr>
+  
+  ### 🔥 Streak Stats
   <p align=center>
-   <img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=vaish-8468&theme=radical">
+   <img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=vaish-8468&theme=tokyonight">
+    <br>
 </p>
+
