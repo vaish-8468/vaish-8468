@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">Hello there!👋 My name is Vartika Vaish.🤓</h2>
+<h2 align="center">Hello there!👋 I'm Vartika Vaish.🤓</h2>
 <p align="center">I'm currently a student pursuing my Bachelor of Technology in Electrical Engineering from IIT Jammu, Jammu :student:. I'm passionate about areas of machine learning and IoT:woman_technologist:. You can also find me interested in robotics :robot:.I also design websites. I've started exploring the field of electronics as well ✨ and hope to contribute to that field as well. 
 </p>
 <p>🌱 I’m currently learning...
@@ -32,11 +32,38 @@ Here are some ideas to get you started:
 </p>
 
 <br>
-<hr>
-<p align="center">
+
+<!-- <p align="center">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> 
+<img src="https://komarev.com/ghpvc/?username=vaish-8468&label=Profile%20views&color=0e75b6&style=flat" alt="vaish-8468" /> 
+</p> -->
+
+
+<h3 align="left">Languages and Tools:</h3>
+<div align="center" margin-top = "10px" margin-bottom="10px">
+<!--     <img src="https://img.icons8.com/color/48/000000/django.png"/> -->
+    <img src="https://img.icons8.com/nolan/54/api-settings.png"/>
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<!--     <img style="width:70px; margin-bottom:-8px;" src="https://i.imgur.com/6l6zWgd.png"/> -->
+    <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+    <img src="https://img.icons8.com/fluency/48/000000/chatbot.png"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/docker.png" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" />
+  <img src="https://img.icons8.com/color/48/000000/mysql.png" />
+  <img src="https://img.icons8.com/color/48/000000/golang.png" />
+
+
+
+
+</div>    
 
 ## 📈 My GitHub Stats and Activity
 
@@ -46,10 +73,25 @@ Here are some ideas to get you started:
   </p>
   
 <hr>
+<!--
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaish-8468&" alt="vaish-8468" /></p>
+
+<hr>
+-->
   
   ### 🔥 Streak Stats
-  <p align=center>
+<!--  <p align=center>
    <img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=vaish-8468&theme=tokyonight">
     <br>
 </p>
+-->
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaish-8468&" alt="vaish-8468" /></p>
+
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 
