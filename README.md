@@ -88,8 +88,8 @@ Here are some ideas to get you started:
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaish-8468&" alt="vaish-8468" /></p>
 
 <br>
-![snake animation](https://github.com/vaish-8468/vaish-8468/blob/output/github-contribution-grid-snake2.svg)
-
+<!-- ![snake animation](https://github.com/vaish-8468/vaish-8468/blob/output/github-contribution-grid-snake2.svg)
+ -->
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
